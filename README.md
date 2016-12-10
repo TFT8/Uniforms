@@ -8,7 +8,7 @@ Pack consists of following item types (all in _UCP_, _OCP_ and _WNT_ camo patter
 
 Uniforms|Vests|Backpacks|Headgear
 ---|---|---|---
-Combat (long sleeves)<br/>Combat (rolled sleeves) | Light plate carrier<br/>Heavy plate carrier | Assault<br/>Kitbag | Boonie Hat<br/>Patrol Cap<br/>MICH<br/>ECH
+Combat (long sleeves)<br/>Combat (rolled sleeves)<br/>T-shirt Uniform | Light plate carrier<br/>Heavy plate carrier | Assault<br/>Kitbag | Boonie Hat<br/>Patrol Cap<br/>MICH<br/>ECH
 
 Additionally there are few miscellaneous items:
   * Black Protec helmet

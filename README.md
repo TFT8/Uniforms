@@ -15,5 +15,6 @@ Additionally there are few miscellaneous items:
   * Tan Protec helmet
   * 75th Ranger beret
   * 160th SOAR beret
+  * Multiple additional bandanas
 
 ![Uniforms elements](https://tft8.com/img/uniforms_parts.png)

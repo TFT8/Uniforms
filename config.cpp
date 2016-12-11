@@ -100,8 +100,8 @@ class CfgGlasses {
         hiddenSelectionsTextures[] = {"\tft_uniforms\Misc\Bandana\black_skull.paa"};
     };
 
-    BANDANA(khaki)
-    BANDANA(olive)
-    BANDANA(tan)
-    BANDANA(snow)
+    BANDANA(Khaki)
+    BANDANA(Olive)
+    BANDANA(Tan)
+    BANDANA(Snow)
 };

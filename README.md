@@ -17,4 +17,4 @@ Additionally there are few miscellaneous items:
 
 Headgear|Facewear
 ---|---|
-Black Protec helmet</br>Tan Protec helmet</br>75th Ranger beret</br>160th SOAR beret | Bandana (Black) _w/ Skull_</br>Bandana (Khaki) _w/ Beast, or Skull_</br>Bandana (Olive) _w/ Beast, or Skull_</br>Bandana (Snow) _Plain, w/ Beast, or Skull_
+Black Protec helmet</br>Tan Protec helmet</br>75th Ranger beret</br>160th SOAR beret | Bandana (Black) _w/ Skull_</br>Bandana (Khaki) _w/ Beast, or Skull_</br>Bandana (Olive) _w/ Beast, or Skull_</br>Bandana (Snow) _w/ Beast, Skull, or w/o_

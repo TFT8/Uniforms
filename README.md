@@ -10,10 +10,8 @@ Uniforms|Vests|Backpacks|Headgear
 Combat (long sleeves)<br/>Combat (rolled sleeves)<br/>T-shirt Uniform | Carrier Rig<br/>Carrier Rig (Heavy) | Assault<br/>Kitbag | Boonie Hat<br/>Patrol Cap<br/>MICH<br/>ECH
 
 Additionally there are few miscellaneous items:
-  * Black Protec helmet
-  * Tan Protec helmet
-  * 75th Ranger beret
-  * 160th SOAR beret
-  * Multiple additional bandanas
+Headgear|Facewear
+---|---|
+Black Protec helmet</br>Tan Protec helmet</br>75th Ranger beret</br>160th SOAR beret | Bandana (Black) Skull</br>Bandana (Khaki) Beast</br>Bandana (Khaki) Skull</br>Bandana (Olive) Beast</br>Bandana (Olive) Skull</br>Bandana (Snow)</br>Bandana (Snow) Beast</br>Bandana (Snow) Skull
 
 ![Uniforms elements](https://tft8.com/img/uniforms_parts.png)

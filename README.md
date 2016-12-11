@@ -13,6 +13,6 @@ Additionally there are few miscellaneous items:
 
 Headgear|Facewear
 ---|---|
-Black Protec helmet</br>Tan Protec helmet</br>75th Ranger beret</br>160th SOAR beret | Bandana (Black) Skull</br>Bandana (Khaki) Beast</br>Bandana (Khaki) Skull</br>Bandana (Olive) Beast</br>Bandana (Olive) Skull</br>Bandana (Snow)</br>Bandana (Snow) Beast</br>Bandana (Snow) Skull
+Black Protec helmet</br>Tan Protec helmet</br>75th Ranger beret</br>160th SOAR beret | Bandana (Black) w/ Skull</br>Bandana (Khaki) w/ Beast or Skull</br>Bandana (Olive) w/ Beast or Skull</br>Bandana (Snow) plain, w/ Beast or Skull
 
 ![Uniforms elements](https://tft8.com/img/uniforms_parts.png)

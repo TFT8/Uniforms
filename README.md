@@ -10,6 +10,7 @@ Uniforms|Vests|Backpacks|Headgear
 Combat (long sleeves)<br/>Combat (rolled sleeves)<br/>T-shirt Uniform | Carrier Rig<br/>Carrier Rig (Heavy) | Assault<br/>Kitbag | Boonie Hat<br/>Patrol Cap<br/>MICH<br/>ECH
 
 Additionally there are few miscellaneous items:
+
 Headgear|Facewear
 ---|---|
 Black Protec helmet</br>Tan Protec helmet</br>75th Ranger beret</br>160th SOAR beret | Bandana (Black) Skull</br>Bandana (Khaki) Beast</br>Bandana (Khaki) Skull</br>Bandana (Olive) Beast</br>Bandana (Olive) Skull</br>Bandana (Snow)</br>Bandana (Snow) Beast</br>Bandana (Snow) Skull

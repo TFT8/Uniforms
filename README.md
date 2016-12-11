@@ -1,5 +1,4 @@
-## TFT Uniforms
-
+## TFT Uniforms   </a><a href="https://www.bistudio.com/community/licenses/arma-public-license-share-alike"><img src="http://img.shields.io/badge/License-APL--SA-red.svg?style=flat" alt="License"></a>  
 High quality Uniforms, Vests, Headgear and Backpacks in 3 cammo patterns: **UCP**, **OCP** and **WNT**.
 ![Uniforms overview](https://tft8.com/img/uniforms_main2.png)
 ---

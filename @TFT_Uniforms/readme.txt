@@ -6,7 +6,7 @@
 DESCRIPTION
 ---------------
 
-TFT8 Uniforms consists of a collection of uniforms, vests, backpacks, and headgear. This mod was created using original content as well as share alike content from ARMA III and ARMA III: Apex Expansion. This mod is intended for use by guests of the TFT8 Public Modded Arma 3 server as well as members of Task Force Tempor 8 on other official TFT8 servers. Enjoy!
+TFT8 Uniforms consists of a collection of uniforms, vests, backpacks, and headgear. This mod was created using original content as well as content from ARMA III and ARMA III: Apex Expansion under APL-SA license. This mod is intended for use by guests of the TFT8 Public Modded Arma 3 server as well as members of Task Force Tempor 8 on other official TFT8 servers. Enjoy!
 
 
 CONTENTS

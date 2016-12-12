@@ -1,6 +1,6 @@
 ## TFT8 Uniforms &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a><a href="https://www.bistudio.com/community/licenses/arma-public-license-share-alike"><img src="http://img.shields.io/badge/License-APL--SA-red.svg?style=plastic" alt="License"></a>  
 
-High quality Uniforms, Vests, Headgear and Backpacks in 3 camouflage patterns: **UCP**, **OCP** and **WNT**.
+High quality Uniforms, Vests, Headgear and Backpacks in 3 camouflage patterns: **UCP**, **OCP** and **WNT**. This mod was created using original content as well as content from ARMA III and ARMA III: Apex Expansion under APL-SA license. This mod is intended for use by guests of the TFT8 Public Modded Arma 3 server as well as members of Task Force Tempor 8 on other official TFT8 servers. Enjoy!
 ![Uniforms overview](https://tft8.com/img/uniforms_main2.png)
 ---
 #Content

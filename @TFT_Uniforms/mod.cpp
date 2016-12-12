@@ -6,7 +6,7 @@ logo = "mod.paa";
 logoOver = "TFT8.paa";
 tooltip = "TFT8 Uniforms";
 tooltipOwned = "TFT8 Uniforms";
-overview = "Come Join us in ARMA 3 at modded.tft8.com:2303.<br/>    on Teamspeak at:TS3.TFT8.com<br/>    and on the web at http://tft8.com.<br/><br/><t color='#7C7C7C'>This content is under APL-SA License.<t />";
+overview = "Come Join us in ARMA 3 at modded.tft8.com:2352.<br/>    on Teamspeak at:TS3.TFT8.com<br/>    and on the web at http://tft8.com.<br/><br/><t color='#7C7C7C'>This content is under APL-SA License.<t />";
 overviewPicture = "overview.paa";
 overviewText = "Task Force Tempor 8 Uniforms Mod";
 overviewFootnote = "<br/><t color='#7C7C7C'>This content is under APL-SA License.<t />";

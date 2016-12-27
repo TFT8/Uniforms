@@ -23,5 +23,7 @@ Headgear|Facewear
 Black Protec helmet</br>Tan Protec helmet</br>75th Ranger beret</br>160th SOAR beret | Bandana (Black) _w/ Beast, or Skull, with and without glasses_</br>Bandana (Khaki) _w/ Beast, or Skull, with and without glasses_</br>Bandana (Olive) _w/ Beast, or Skull, with and without glasses_</br>Bandana (Snow) _w/ Beast, Skull, with or without glasses_
 
 
-#Update v1.1
-[add] Aviator, Sport, & Shades versions of Snow, Khaki, Tan, Black and Olive bandanas
+#Changelog
+v1.1
+
+_[add] Aviator, Sport, & Shades versions of Snow, Khaki, Tan, Black and Olive bandanas_

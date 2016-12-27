@@ -209,36 +209,36 @@
     class TFT_Bandana_Skull_Shades_##PATTERN: G_Bandanna_shades { \
         displayname = QUOTE(Bandana (PATTERN) Skull Shades); \
         author = "TFT8"; \
-        picture = QUOTE(MERGE(\tft_uniforms\Misc\Bandana\UI\PATTERN,_skull.paa)); \
+        picture = QUOTE(MERGE(\tft_uniforms\Misc\Bandana\UI\PATTERN,_skull_glasses.paa)); \
         hiddenSelectionsTextures[]= {QUOTE(MERGE(\tft_uniforms\Misc\Bandana\PATTERN,_skull.paa)), "\a3\characters_f\heads\glasses\data\joeyx_black_ca.paa"}; \
     }; \
     class TFT_Bandana_Beast_Shades_##PATTERN: G_Bandanna_shades { \
         displayname = QUOTE(Bandana (PATTERN) Beast Shades); \
         author = "TFT8"; \
-        picture = QUOTE(MERGE(\tft_uniforms\Misc\Bandana\UI\PATTERN,_beast.paa)); \
+        picture = QUOTE(MERGE(\tft_uniforms\Misc\Bandana\UI\PATTERN,_skull_glasses.paa)); \
         hiddenSelectionsTextures[]= {QUOTE(MERGE(\tft_uniforms\Misc\Bandana\PATTERN,_beast.paa)), "\a3\characters_f\heads\glasses\data\joeyx_black_ca.paa"}; \
     }; \
     class TFT_Bandana_Skull_Aviator_##PATTERN: G_Bandanna_aviator { \
         displayname = QUOTE(Bandana (PATTERN) Skull Aviator); \
         author = "TFT8"; \
-        picture = QUOTE(MERGE(\tft_uniforms\Misc\Bandana\UI\PATTERN,_skull.paa)); \
+        picture = QUOTE(MERGE(\tft_uniforms\Misc\Bandana\UI\PATTERN,_skull_glasses.paa)); \
         hiddenSelectionsTextures[]= {QUOTE(MERGE(\tft_uniforms\Misc\Bandana\PATTERN,_skull.paa)), "\a3\characters_f\heads\glasses\data\glass_ca.paa"}; \
     }; \
     class TFT_Bandana_Beast_Aviator_##PATTERN: G_Bandanna_aviator { \
         displayname = QUOTE(Bandana (PATTERN) Beast Aviator); \
         author = "TFT8"; \
-        picture = QUOTE(MERGE(\tft_uniforms\Misc\Bandana\UI\PATTERN,_beast.paa)); \
+        picture = QUOTE(MERGE(\tft_uniforms\Misc\Bandana\UI\PATTERN,_skull_glasses.paa)); \
         hiddenSelectionsTextures[]= {QUOTE(MERGE(\tft_uniforms\Misc\Bandana\PATTERN,_beast.paa)), "\a3\characters_f\heads\glasses\data\glass_ca.paa"}; \
     }; \
     class TFT_Bandana_Skull_Sport_##PATTERN: G_Bandanna_sport { \
         displayname = QUOTE(Bandana (PATTERN) Skull Sport); \
         author = "TFT8"; \
-        picture = QUOTE(MERGE(\tft_uniforms\Misc\Bandana\UI\PATTERN,_skull.paa)); \
+        picture = QUOTE(MERGE(\tft_uniforms\Misc\Bandana\UI\PATTERN,_skull_glasses.paa)); \
         hiddenSelectionsTextures[]= {QUOTE(MERGE(\tft_uniforms\Misc\Bandana\PATTERN,_skull.paa)), "\a3\characters_f\heads\glasses\data\sunglasses_sport_4_ca.paa"}; \
     }; \
     class TFT_Bandana_Beast_Sport_##PATTERN: G_Bandanna_sport { \
         displayname = QUOTE(Bandana (PATTERN) Beast Sport); \
         author = "TFT8"; \
-        picture = QUOTE(MERGE(\tft_uniforms\Misc\Bandana\UI\PATTERN,_beast.paa)); \
+        picture = QUOTE(MERGE(\tft_uniforms\Misc\Bandana\UI\PATTERN,_skull_glasses.paa)); \
         hiddenSelectionsTextures[]= {QUOTE(MERGE(\tft_uniforms\Misc\Bandana\PATTERN,_beast.paa)), "\a3\characters_f\heads\glasses\data\sunglasses_sport_4_ca.paa"}; \
     };

@@ -107,7 +107,7 @@ class CfgGlasses {
     class TFT_Bandana_Skull_Shades_black: G_Bandanna_shades {
         displayname = "Bandana (Black) Skull Shades";
         author = "TFT8";
-        picture="\A3\Characters_F_Bootcamp\Data\UI\icon_G_Bandana_shades_ca.paa";
+        picture = "\tft_uniforms\Misc\Bandana\UI\black_skull_glasses.paa";
         hiddenSelectionsTextures[]= {
             "\tft_uniforms\Misc\Bandana\black_skull.paa",
             "\a3\characters_f\heads\glasses\data\joeyx_black_ca.paa"
@@ -116,7 +116,7 @@ class CfgGlasses {
     class TFT_Bandana_Skull_Aviators_black: G_Bandanna_aviator {
         displayname = "Bandana (Black) Skull Aviator";
         author = "TFT8";
-        picture="\A3\Characters_F_Bootcamp\Data\UI\icon_G_Bandana_shades_ca.paa";
+        picture = "\tft_uniforms\Misc\Bandana\UI\black_skull_glasses.paa";
         hiddenSelectionsTextures[]= {
             "\tft_uniforms\Misc\Bandana\black_skull.paa",
             "\a3\characters_f\heads\glasses\data\glass_ca.paa"
@@ -125,7 +125,7 @@ class CfgGlasses {
     class TFT_Bandana_Skull_Sport_black: G_Bandanna_sport {
         displayname = "Bandana (Black) Skull Sport";
         author = "TFT8";
-        picture="\A3\Characters_F_Bootcamp\Data\UI\icon_G_Bandana_sport_ca.paa";
+        picture = "\tft_uniforms\Misc\Bandana\UI\black_skull_glasses.paa";
         hiddenSelectionsTextures[]= {
             "\tft_uniforms\Misc\Bandana\black_skull.paa",
             "\a3\characters_f\heads\glasses\data\sunglasses_sport_4_ca.paa"

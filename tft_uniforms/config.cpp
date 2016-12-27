@@ -5,7 +5,7 @@ class CfgPatches {
         units[] = {};
         weapons[] = {};
         requiredAddons[] = {"A3_Characters_F_BLUFOR"};
-        version = 1.0;
+        version = 1.1;
         author = "YoursTruly, Fitzgerald";
     };
 };
@@ -25,15 +25,15 @@ class cfgVehicles {
 };
 
 class cfgWeapons {
-    class UniformItem;                      // External class reference
-    class ItemCore;                         // External class reference
-    class HelmetBase;                       // External class reference
-    class U_B_CombatUniform_mcam;           // External class reference
-    class U_B_CombatUniform_mcam_vest;      // External class reference
-    class U_B_CombatUniform_mcam_tshirt;    // External class reference
-    class Vest_NoCamo_Base;                 // External class reference
-    class H_Booniehat_khk;                  // External class reference
-    class H_Beret_02;                       // External class reference
+    class UniformItem;                                  // External class reference
+    class ItemCore;                                      // External class reference
+    class HelmetBase;                                 // External class reference
+    class U_B_CombatUniform_mcam;          // External class reference
+    class U_B_CombatUniform_mcam_vest;   // External class reference
+    class U_B_CombatUniform_mcam_tshirt; // External class reference
+    class Vest_NoCamo_Base;                     // External class reference
+    class H_Booniehat_khk;                          // External class reference
+    class H_Beret_02;                                  // External class reference
 
     class H_HelmetSpecB : ItemCore {
         class ItemInfo;
@@ -87,7 +87,10 @@ class cfgWeapons {
 };
 
 class CfgGlasses {
-    class G_Bandanna_beast; // External class reference
+    class G_Bandanna_beast;                      // External class reference
+    class G_Bandanna_shades;                    // External class reference
+    class G_Bandanna_sport;                       // External class reference
+    class G_Bandanna_aviator;                     // External class reference
 
     class TFT_Bandana_snow: G_Bandanna_beast {
         displayname = "Bandana (Snow)";
@@ -100,6 +103,33 @@ class CfgGlasses {
         author = "TFT8";
         picture = "\tft_uniforms\Misc\Bandana\UI\black_skull.paa";
         hiddenSelectionsTextures[] = {"\tft_uniforms\Misc\Bandana\black_skull.paa"};
+    };
+    class TFT_Bandana_Skull_Shades_black: G_Bandanna_shades {
+        displayname = "Bandana (Black) Skull Shades";
+        author = "TFT8";
+        picture="\A3\Characters_F_Bootcamp\Data\UI\icon_G_Bandana_shades_ca.paa";
+        hiddenSelectionsTextures[]= {
+            "\tft_uniforms\Misc\Bandana\black_skull.paa",
+            "\a3\characters_f\heads\glasses\data\joeyx_black_ca.paa"
+        };
+    };
+    class TFT_Bandana_Skull_Aviators_black: G_Bandanna_aviator {
+        displayname = "Bandana (Black) Skull Aviator";
+        author = "TFT8";
+        picture="\A3\Characters_F_Bootcamp\Data\UI\icon_G_Bandana_shades_ca.paa";
+        hiddenSelectionsTextures[]= {
+            "\tft_uniforms\Misc\Bandana\black_skull.paa",
+            "\a3\characters_f\heads\glasses\data\glass_ca.paa"
+        };
+    };
+    class TFT_Bandana_Skull_Sport_black: G_Bandanna_sport {
+        displayname = "Bandana (Black) Skull Sport";
+        author = "TFT8";
+        picture="\A3\Characters_F_Bootcamp\Data\UI\icon_G_Bandana_sport_ca.paa";
+        hiddenSelectionsTextures[]= {
+            "\tft_uniforms\Misc\Bandana\black_skull.paa",
+            "\a3\characters_f\heads\glasses\data\sunglasses_sport_4_ca.paa"
+        };
     };
 
     BANDANA(Khaki)

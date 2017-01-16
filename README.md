@@ -26,7 +26,7 @@ Black Protec Helmet</br>Tan Protec Helmet</br>75th Ranger Beret</br>160th SOAR B
 #Changelog
 v1.1
 
-_[fixed] texture on small pouch on left side of `Carrier Rig (Heavy)` [OCP,UCP & WNT]
-_[fixed] texture on magazines on `Carrier Rig (Heavy)` [OCP,UCP,WNT]
-_[added] aviator & sport versions of snow, khaki, tan, & olive bandanas_
--[fixed] rename vanilla bandana facewear to match naming format_
+- [fixed] texture on small pouch on left side of `Carrier Rig (Heavy)` [OCP,UCP & WNT]
+- [fixed] texture on magazines on `Carrier Rig (Heavy)` [OCP,UCP,WNT]
+- [added] aviator & sport versions of snow, khaki, tan, & olive bandanas
+- [fixed] rename vanilla bandana facewear to match naming format

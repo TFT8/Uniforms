@@ -16,11 +16,11 @@ Combat (long sleeves)<br/>Combat (rolled sleeves)<br/>T-shirt Uniform | Carrier 
 
 ![Uniforms elements](https://tft8.com/img/uniforms_parts.png)
 
-Additionally there are few miscellaneous items:
+Additional miscellaneous items:
 
 Headgear|Facewear
 ---|---|
-Black Protec helmet</br>Tan Protec helmet</br>75th Ranger beret</br>160th SOAR beret | Bandana (Black) _w/ Beast, or Skull, with and without glasses_</br>Bandana (Khaki) _w/ Beast, or Skull, with and without glasses_</br>Bandana (Olive) _w/ Beast, or Skull, with and without glasses_</br>Bandana (Snow) _w/ Beast, Skull, with or without glasses_
+Black Protec helmet</br>Tan Protec helmet</br>75th Ranger beret</br>160th SOAR beret | Bandana (Black) _with Skull_</br>Bandana (Khaki) _w/ Beast, or Skull, or plain with Aviators or Sport glasses_</br>Bandana (Olive) _w/ Beast, or Skull, or plain with Aviators or Sport glasses_</br>Bandana (Snow) _Plain, or w/ Beast, or Skull, or plain with Aviators or Sport glasses_
 
 
 #Changelog

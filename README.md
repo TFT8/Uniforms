@@ -24,6 +24,9 @@ Black Protec helmet</br>Tan Protec helmet</br>75th Ranger beret</br>160th SOAR b
 
 
 #Changelog
-v1.1
+v1.1 (2017-01-16)
 
-_[add] Aviator, Sport, & Shades versions of Snow, Khaki, Tan, Black and Olive bandanas_
+- [fixed] texture on small pouch on left side of `Carrier Rig (Heavy)` [`OCP`,`UCP` & `WNT`] [#1](https://github.com/TFT8/Uniforms/issues/1)
+- [fixed] texture on magazines on `Carrier Rig (Heavy)` [`OCP`,`UCP`,`WNT`] [#2](https://github.com/TFT8/Uniforms/issues/2)
+- [added] `Aviator` & `Sport` versions of `Snow`, `Khaki`, `Tan`, & `Olive` bandanas
+- [fixed] rename vanilla bandana facewear to match naming format (`Bandana (Black) Aviator`)

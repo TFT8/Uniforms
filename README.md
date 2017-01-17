@@ -1,4 +1,4 @@
-## TFT8 Uniforms &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a><a href="https://www.bistudio.com/community/licenses/arma-public-license-share-alike"><img src="http://img.shields.io/badge/License-APL--SA-red.svg?style=plastic" alt="License"></a>  
+## TFT8 Uniforms v1.1 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a><a href="https://www.bistudio.com/community/licenses/arma-public-license-share-alike"><img src="http://img.shields.io/badge/License-APL--SA-red.svg?style=plastic" alt="License"></a>  
 
 High quality Uniforms, Vests, Headgear and Backpacks in 3 camouflage patterns: **UCP**, **OCP** and **WNT**. 
 
@@ -16,8 +16,14 @@ Combat (long sleeves)<br/>Combat (rolled sleeves)<br/>T-shirt Uniform | Carrier 
 
 ![Uniforms elements](https://tft8.com/img/uniforms_parts.png)
 
-Additionally there are few miscellaneous items:
+Additional miscellaneous items:
 
 Headgear|Facewear
 ---|---|
-Black Protec helmet</br>Tan Protec helmet</br>75th Ranger beret</br>160th SOAR beret | Bandana (Black) _w/ Skull_</br>Bandana (Khaki) _w/ Beast, or Skull_</br>Bandana (Olive) _w/ Beast, or Skull_</br>Bandana (Snow) _w/ Beast, Skull, or w/o_
+Black Protec helmet</br>Tan Protec helmet</br>75th Ranger beret</br>160th SOAR beret | Bandana (Black) _with Skull_</br>Bandana (Khaki) _w/ Beast, or Skull, or plain with Aviators or Sport glasses_</br>Bandana (Olive) _w/ Beast, or Skull, or plain with Aviators or Sport glasses_</br>Bandana (Snow) _Plain, or w/ Beast, or Skull, or plain with Aviators or Sport glasses_
+
+
+#Changelog
+v1.1
+
+_[add] Aviator, Sport, & Shades versions of Snow, Khaki, Tan, Black and Olive bandanas_

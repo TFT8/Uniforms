@@ -193,7 +193,7 @@
         hiddenSelectionsTextures[] = {QUOTE(tft_uniforms\PATTERN\kitbag.paa)}; \
     };
 
-#define BANDANA(PATTERN) \
+#define BANDANA(PATTERN,PATH) \
     class TFT_Bandana_Beast_##PATTERN: G_Bandanna_beast { \
         displayname = QUOTE(Bandana (PATTERN) Beast); \
         author = "TFT8"; \
@@ -205,4 +205,16 @@
         author = "TFT8"; \
         picture = QUOTE(MERGE(\tft_uniforms\Misc\Bandana\UI\PATTERN,_skull.paa)); \
         hiddenSelectionsTextures[] = {QUOTE(MERGE(\tft_uniforms\Misc\Bandana\PATTERN,_skull.paa))}; \
-    };
+    };\
+    class TFT_Bandana_Aviator_##PATTERN: G_Bandanna_aviator { \
+        displayname = QUOTE(Bandana (PATTERN) Aviator); \
+        author = "TFT8"; \
+        picture = QUOTE(MERGE(\tft_uniforms\Misc\Bandana\UI\PATTERN,_aviator.paa)); \
+        hiddenSelectionsTextures[]= {PATH,"\a3\characters_f\heads\glasses\data\glass_ca.paa"}; \
+    }; \
+    class TFT_Bandana_Sport_##PATTERN: G_Bandanna_sport { \
+        displayname = QUOTE(Bandana (PATTERN) Sport); \
+        author = "TFT8"; \
+        picture = QUOTE(MERGE(\tft_uniforms\Misc\Bandana\UI\PATTERN,_sport.paa)); \
+        hiddenSelectionsTextures[]= {PATH,"\a3\characters_f\heads\glasses\data\sunglasses_sport_4_ca.paa"}; \
+    }; \

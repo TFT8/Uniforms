@@ -109,6 +109,13 @@ class CfgGlasses {
         hiddenSelectionsTextures[] = {"\tft_uniforms\Misc\Bandana\snow.paa"};
     };
 
+    class TFT_Bandana_Skull_black: G_Bandanna_beast {
+        displayname = "Bandana (Black) Skull";
+        author = "TFT8";
+        picture = "\tft_uniforms\Misc\Bandana\UI\black_skull.paa";
+        hiddenSelectionsTextures[] = {"\tft_uniforms\Misc\Bandana\black_skull.paa"};
+    };
+
     BANDANA(Khaki,"\A3\Characters_F_Bootcamp\Guerrilla\Data\headgear_bandMask_khk_co.paa")
     BANDANA(Olive,"\A3\Characters_F_Bootcamp\Guerrilla\Data\headgear_bandMask_grn_co.paa")
     BANDANA(Tan,"\A3\Characters_F_Bootcamp\Guerrilla\Data\headgear_bandMask_tan_co.paa")

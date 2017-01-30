@@ -20,7 +20,7 @@ Additional miscellaneous items:
 
 Headgear|Facewear
 ---|---|
-Black Protec helmet</br>Tan Protec helmet</br>2-75th Ranger beret</br>TFT8 SOAC beret | Bandana (Black) _with Skull_</br>Bandana (Khaki) _w/ Beast, or Skull, or plain with Aviators or Sport glasses_</br>Bandana (Olive) _w/ Beast, or Skull, or plain with Aviators or Sport glasses_</br>Bandana (Snow) _Plain, or w/ Beast, or Skull, or plain with Aviators or Sport glasses_
+Black Protec helmet</br>Tan Protec helmet</br>Beret [TFT8] 2-75th Ranger</br>Beret [TFT8] SOAC | Bandana (Black) _with Skull_</br>Bandana (Khaki) _w/ Beast, or Skull, or plain with Aviators or Sport glasses_</br>Bandana (Olive) _w/ Beast, or Skull, or plain with Aviators or Sport glasses_</br>Bandana (Snow) _Plain, or w/ Beast, or Skull, or plain with Aviators or Sport glasses_
 
 
 #Changelog

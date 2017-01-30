@@ -1,4 +1,4 @@
-## TFT8 Uniforms v1.1 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a><a href="https://www.bistudio.com/community/licenses/arma-public-license-share-alike"><img src="http://img.shields.io/badge/License-APL--SA-red.svg?style=plastic" alt="License"></a>  
+## TFT8 Uniforms v1.2 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a><a href="https://www.bistudio.com/community/licenses/arma-public-license-share-alike"><img src="http://img.shields.io/badge/License-APL--SA-red.svg?style=plastic" alt="License"></a>  
 
 High quality Uniforms, Vests, Headgear and Backpacks in 3 camouflage patterns: **UCP**, **OCP** and **WNT**. 
 
@@ -20,10 +20,17 @@ Additional miscellaneous items:
 
 Headgear|Facewear
 ---|---|
-Black Protec helmet</br>Tan Protec helmet</br>75th Ranger beret</br>160th SOAR beret | Bandana (Black) _with Skull_</br>Bandana (Khaki) _w/ Beast, or Skull, or plain with Aviators or Sport glasses_</br>Bandana (Olive) _w/ Beast, or Skull, or plain with Aviators or Sport glasses_</br>Bandana (Snow) _Plain, or w/ Beast, or Skull, or plain with Aviators or Sport glasses_
+Black Protec helmet</br>Tan Protec helmet</br>2-75th Ranger beret</br>TFT8 SOAC beret | Bandana (Black) _with Skull_</br>Bandana (Khaki) _w/ Beast, or Skull, or plain with Aviators or Sport glasses_</br>Bandana (Olive) _w/ Beast, or Skull, or plain with Aviators or Sport glasses_</br>Bandana (Snow) _Plain, or w/ Beast, or Skull, or plain with Aviators or Sport glasses_
 
 
 #Changelog
+v1.2 (2017-01-30)
+
+- [update] improve the texture of 75th Ranger Beret
+- [update] correct the UI for 75th Ranger Beret
+- [update] replace 160th SOAR Beret with TFT8 SOAC Beret
+- [update] rename Berets in line with Vanilla Naming (i.e. `Beret [TFT8] SOAR`)
+
 v1.1 (2017-01-16)
 
 - [fixed] texture on small pouch on left side of `Carrier Rig` [`OCP`,`UCP` & `WNT`] [#1](https://github.com/TFT8/Uniforms/issues/1)

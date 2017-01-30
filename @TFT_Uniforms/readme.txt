@@ -11,6 +11,13 @@ TFT8 Uniforms consists of a collection of uniforms, vests, backpacks, and headge
 CHANGELOG
 ---------------
 
+v1.2 (2017-01-30)
+
+- [update] improve the texture of 75th Ranger Beret
+- [update] correct the UI for 75th Ranger Beret
+- [update] replace 160th SOAR Beret with TFT8 SOAC Beret
+- [update] rename Berets in line with Vanilla Naming (i.e. `Beret [TFT8] SOAR`)
+
 v1.1 (2017-01-17)
 - [fixed] texture on small pouch on left side of Carrier Rig [OCP,UCP & WNT] #1
 - [fixed] texture on magazines on Carrier Rig (Heavy) [OCP,UCP,WNT] #2
@@ -42,8 +49,8 @@ Enhanced Combat Helmet (WNT, UCP and OCP camo pattern)
 MICH (WNT, UCP and OCP camo pattern)
 Patrol Cap (WNT, UCP and OCP camo pattern)
 Boonie Hat (WNT, UCP and OCP camo pattern)
-160th SOAR Beret
-75th Ranger Beret
+Beret [TFT8] SOAC
+Beret [TFT8] 2-75th Ranger 
 Black ProTec
 Tan ProTec
 

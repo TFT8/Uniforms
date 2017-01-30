@@ -29,7 +29,7 @@ v1.2 (2017-01-30)
 - [update] improve the texture of 75th Ranger Beret
 - [update] correct the UI for 75th Ranger Beret
 - [update] replace 160th SOAR Beret with TFT8 SOAC Beret
-- [update] rename Berets in line with Vanilla Naming (i.e. `Beret [TFT8] SOAR`)
+- [update] rename Berets in line with vanilla naming (i.e. `Beret [TFT8] SOAR`)
 
 v1.1 (2017-01-16)
 

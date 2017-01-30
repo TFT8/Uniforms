@@ -57,14 +57,14 @@ class cfgWeapons {
         class ItemInfo;
     };
 
-    class TFT_Beret_160th : H_Beret_02 {
-        displayName = "160th SOAR Beret";
+    class TFT_Beret_SOAC : H_Beret_02 {
+        displayName = "Beret [TFT8] SOAC";
         author = "TFT8";
         picture = "\tft_uniforms\Misc\UI\beret160.paa";
-        hiddenSelectionsTextures[] = {"\tft_uniforms\Misc\beret160th.paa"};
+        hiddenSelectionsTextures[] = {"\tft_uniforms\Misc\beretSOAC.paa"};
     };
     class TFT_Beret_75th : H_Beret_02 {
-        displayName = "75th Ranger Beret";
+        displayName = "Beret [TFT8] 2-75th Ranger";
         author = "TFT8";
         picture = "\tft_uniforms\Misc\UI\beret75.paa";
         hiddenSelectionsTextures[] = {"\tft_uniforms\Misc\beret75th.paa"};

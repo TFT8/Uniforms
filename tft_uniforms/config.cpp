@@ -60,7 +60,7 @@ class cfgWeapons {
     class TFT_Beret_SOAC : H_Beret_02 {
         displayName = "Beret [TFT8] SOAC";
         author = "TFT8";
-        picture = "\tft_uniforms\Misc\UI\beret160.paa";
+        picture = "\tft_uniforms\Misc\UI\beretSOAC.paa";
         hiddenSelectionsTextures[] = {"\tft_uniforms\Misc\beretSOAC.paa"};
     };
     class TFT_Beret_75th : H_Beret_02 {

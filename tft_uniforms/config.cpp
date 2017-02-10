@@ -28,6 +28,7 @@ class cfgWeapons {
     class UniformItem;                          // External class reference
     class ItemCore;                             // External class reference
     class HelmetBase;                           // External class reference
+    class H_HelmetB_plain_mcamo;                // External class reference
     class U_B_CombatUniform_mcam;               // External class reference
     class U_B_CombatUniform_mcam_vest;          // External class reference
     class U_B_CombatUniform_mcam_tshirt;        // External class reference
@@ -35,7 +36,7 @@ class cfgWeapons {
     class H_Booniehat_khk;                      // External class reference
     class H_Beret_02;                           // External class reference
 
-    class H_HelmetSpecB : ItemCore {
+    class H_HelmetSpecB : H_HelmetB_plain_mcamo {
         class ItemInfo;
     };
     class H_HelmetB : ItemCore {

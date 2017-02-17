@@ -1,4 +1,4 @@
-## TFT8 Uniforms v1.2 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a><a href="https://www.bistudio.com/community/licenses/arma-public-license-share-alike"><img src="http://img.shields.io/badge/License-APL--SA-red.svg?style=plastic" alt="License"></a>  
+## TFT8 Uniforms v1.3 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a><a href="https://www.bistudio.com/community/licenses/arma-public-license-share-alike"><img src="http://img.shields.io/badge/License-APL--SA-red.svg?style=plastic" alt="License"></a>  
 
 High quality Uniforms, Vests, Headgear and Backpacks in 3 camouflage patterns: **UCP**, **OCP** and **WNT**. 
 
@@ -24,6 +24,11 @@ Black Protec helmet</br>Tan Protec helmet</br>Beret [TFT8] 2-75th Ranger</br>Ber
 
 
 #Changelog
+v1.3 (2017-02-17)
+- [update] improved colors and textures to camoflauge and gear
+- [update] switched from Booniehats to Boonie with headset
+- [update] UI images for UCP
+
 v1.2 (2017-01-30)
 
 - [update] improve the texture of 75th Ranger Beret

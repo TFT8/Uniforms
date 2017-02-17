@@ -106,6 +106,18 @@
             mass = 100; \
             hiddenSelections[] = {"Camo", "insignia"}; \
         }; \
+    }; \
+    class TFT_Bandollier_##PATTERN : V_BandollierB_khk { \
+        scope=2; \
+        displayName = QUOTE(Slash Bandolier (PATTERN)); \
+        picture="\A3\characters_f\Data\UI\icon_V_BandollierB_CA.paa"; \
+        model="\A3\Characters_F\BLUFOR\equip_b_bandolier"; \
+        hiddenSelectionsTextures[] = {QUOTE(tft_uniforms\PATTERN\vest.paa)}; \
+        class ItemInfo: ItemInfo { \
+            uniformModel="\A3\Characters_F\BLUFOR\equip_b_bandolier"; \
+            containerClass="Supply80"; \
+            mass=10; \
+        }; \
     };
 
 #define HELMET(PATTERN) \
@@ -153,7 +165,7 @@
             hiddenSelections[] = {"Camo"}; \
         }; \
     }; \
-    class TFT_Boonie_##PATTERN : H_Booniehat_khk { \
+    class TFT_Boonie_##PATTERN : H_Booniehat_khk_hs { \
         picture = QUOTE(\tft_uniforms\PATTERN\UI\boonie.paa); \
         displayName = QUOTE(PATTERN Boonie Hat); \
         author = "TFT8"; \

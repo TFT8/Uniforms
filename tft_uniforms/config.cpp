@@ -32,8 +32,9 @@ class cfgWeapons {
     class U_B_CombatUniform_mcam;               // External class reference
     class U_B_CombatUniform_mcam_vest;          // External class reference
     class U_B_CombatUniform_mcam_tshirt;        // External class reference
+    class Vest_Camo_Base;                       // External class reference
     class Vest_NoCamo_Base;                     // External class reference
-    class H_Booniehat_khk;                      // External class reference
+    class H_Booniehat_khk_hs;                   // External class reference
     class H_Beret_02;                           // External class reference
 
     class H_HelmetSpecB : H_HelmetB_plain_mcamo {
@@ -55,6 +56,9 @@ class cfgWeapons {
         class ItemInfo;
     };
     class V_PlateCarrierGL_rgr : Vest_NoCamo_Base {
+        class ItemInfo;
+    };
+    class V_BandollierB_khk: Vest_Camo_Base {
         class ItemInfo;
     };
 

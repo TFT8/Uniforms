@@ -25,9 +25,9 @@ Black Protec helmet</br>Tan Protec helmet</br>Beret [TFT8] 2-75th Ranger</br>Ber
 
 #Changelog
 v1.3 (2017-02-17)
-- [update] improved colors and textures to camoflauge and gear
+- [update] improved colors and textures to camoflauge and gear [#4](https://github.com/TFT8/Uniforms/issues/4), [#5](https://github.com/TFT8/Uniforms/issues/5)
 - [update] switched from Booniehats to Boonie with headset
-- [update] UI images for UCP
+- [update] UI images for UCP [#5](https://github.com/TFT8/Uniforms/issues/5)
 
 v1.2 (2017-01-30)
 

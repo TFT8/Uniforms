@@ -5,8 +5,8 @@ class CfgPatches {
         units[] = {};
         weapons[] = {};
         requiredAddons[] = {"A3_Characters_F_BLUFOR"};
-        version = 1.1;
-        author = "YoursTruly, Fitzgerald, Jhai";
+        version = 1.2;
+        author = "YoursTruly, Fitzgerald, Ampers, Jhai";
     };
 };
 
@@ -80,6 +80,13 @@ class cfgWeapons {
 		picture = "\tft_uniforms\Misc\UI\beretSFG.paa";
 		hiddenSelectionsTextures[] = {"\tft_uniforms\Misc\beret5SFG.paa"};
 	};
+	class TFT_Beret_173rd : H_Beret_02 {
+		displayName = "Beret [TFT8] 173rd Airborne";
+		author = "TFT8";
+		picture = "\tft_uniforms\Misc\UI\beretairborne.paa";
+		hiddenSelectionsTextures[] = { "\tft_uniforms\Misc\beret173rd.paa" };
+	};
+
     UNIFORM(OCP)
     UNIFORM(UCP)
     UNIFORM(WNT)
